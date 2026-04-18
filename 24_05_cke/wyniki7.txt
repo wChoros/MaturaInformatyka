@@ -1,0 +1,25 @@
+7.1
+164-61-25-530	12185
+159-34-45-151	12047
+091-99-74-175	11769
+
+7.2
+Reneta
+
+7.3
+styczeń Gala	14017
+luty Gala	14969
+marzec Jonagored	15079
+kwiecień Gala	19404
+maj Gala	17382
+czerwiec Reneta	18661
+lipiec Melba	21216
+sierpień Reneta	19054
+wrzesień Reneta	20881
+październik Reneta	17065
+listopad Reneta	19755
+grudzień Jonagored	13425
+
+7.4
+ilość udzielonych rabatów	180
+suma udzielonych rabatów	3089,10 zł
