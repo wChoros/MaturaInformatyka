@@ -1,0 +1,21 @@
+3.1
+Pierwsza liczba to: 4489
+Są 20 kwadraty
+
+
+3.2
+2730
+8190
+2310
+4620
+7770
+8610
+4830
+4290
+6930
+6630
+
+
+3.3
+Mniejsza: 947, wieksza: 1052, rowna: 1
+rowna dla 6174
